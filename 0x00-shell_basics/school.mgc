@@ -1,2 +1,2 @@
-offset=0	type=string	test=school	
+offset=0	type=string	test=school	description=data
 !:mime school.mgc

@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR==3{print; exit}' icata
+head 3 iacta

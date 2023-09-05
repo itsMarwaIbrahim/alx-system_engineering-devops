@@ -1,0 +1,2 @@
+#!/bin/bash
+NUM=47 | printf "%f \n" $NUM

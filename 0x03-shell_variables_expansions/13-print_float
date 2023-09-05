@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv  NUM=0 | printf "%.2f \n" $NUM
+echo  NUM=0 | printf "%.2f \n" $NUM

@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=47 | printf "%f \n" $NUM
+export NUM=47 | printf "%f \n" $NUM
